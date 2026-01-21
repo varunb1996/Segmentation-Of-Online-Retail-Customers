@@ -56,7 +56,7 @@ Seasonality: Peak purchasing activity was observed in November, October, and Dec
 
 Time of Day: Customers predominantly made purchases during the afternoon hours.
 
-Using Recency, Frequency, and Monetary (RFM) analysis, customers were segmented into distinct clusters. Application of various clustering algorithms determined that the optimal number of clusters is three.
+Using Recency, Frequency, and Monetary (RFM) analysis, customers were segmented into distinct clusters. Application of various clustering algorithms determined that the optimal number of clusters is two.
 
 From a business perspective, these clusters highlight different customer behaviors. By tailoring services and strategies to each segment, the company can enhance customer satisfaction, improve engagement, and drive overall business growth.
 
